@@ -1,4 +1,4 @@
-class AddNetworkToShows < ActiveRecord::Migration[6.1]
+class AddNetworkToShows < ActiveRecord::Migration[7.0]
   # to make an additive change to a schema we create
   # a new migration, and then in the change method,
   # we make the change.
